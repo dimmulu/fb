@@ -1,0 +1,154 @@
+body{
+padding: opx;
+margin: 0px;
+}
+header{
+background:#415e9b;
+height: 140px;
+border-bottom: 1px solid #133783;
+}
+.header-block{
+width: 990px;
+margin: 0 auto;
+padding-top:20px;
+}
+.logo {
+width: 50%;
+float:left;
+}
+
+.facebook-login {
+width: 50%;
+float:left;
+}
+.logo img {
+padding-top: 0px;
+padding bottom: 0px;
+}
+.header-block label{
+color: green;
+}
+.email {
+float:left;
+}
+.email label {
+padding-bottom:10px;
+}
+.email input[type="text"] {
+height:20px;
+width:1500x;
+border:1px solid white;
+}
+.password {
+float:left;
+margin-left:15px;
+}
+.password input[type="password"] {
+height:20px;
+width:150px;
+border:1px solid white;
+}
+..password a{
+color :black;
+text-decoration: none;
+}
+.password label {
+padding-bottom: 10px;
+}
+.login-button {
+float:left;
+margin-top:20px;
+margin-left:20px;
+
+}
+.login-button inupt[type="submit"] {
+background:#4267b2;
+border: 1px solid white;
+border-radius:2px;
+color:#fff;
+height:20px;
+width:50px;
+
+}
+.clearfix{
+clear:both;
+}
+.content-block {
+width:990px;
+margin: 0 auto;
+}
+.facebook-connect {
+margin-top:50px;
+float:left;
+width:50%;
+}
+.facebook-connect p{
+color:#0e385f;
+front-size:20px;
+front-weight: bold;
+}
+.facebook-connect img {
+margin-top:10px;
+}
+.create-accoumt {
+float:left;
+width:50%;
+}
+.content.container {
+background: linear-gradiant(green,white);
+overflow: hidden;
+}
+.craete-account h2{
+font-size:40px;
+}
+.create-account   .free{
+font-size:20px;
+margin-top:20px;
+margin-bottom:20px;
+}
+.account input[type="text"]  {
+height:36px;
+margin-bottom:15px;
+border-radius:5px;
+padding:10px;
+font-size:16px;
+border: 1px solid black;
+}
+.account input[type="password"]{
+
+margin-bottom:15px;
+padding:10px;
+border-radius:5px;
+margin-left:0px;
+border: 1px solid black;
+}
+.account .mobile ,.account .password {
+width:84%!important;
+}
+.account label {
+font-weight: bold;
+font-size:18px;
+margin-bottom:15px;
+}
+.account a{
+text-decoration: none;
+color:#3677bc;
+}
+.account input[type="radio"]{
+margin-top:20px;
+margin-bottom:20px;
+}
+.account .by-clicking{
+color:#77777a;
+}
+.account input[type="submit"]{
+padding:15px 22px;
+backgroung: linear-gradient(white,black);
+border:1px sold green;
+border-radius:5px;
+font-size:25px;
+color:green;
+margin-top:15%;
+margin-bottom:15px;
+
+}
